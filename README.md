@@ -9,7 +9,7 @@ I am a seasoned Data Scientist with close to 10 years of experience in managing 
 
 ## Skills
 ### Programming and Scripting Languages
-Python 🐍, 
+Python, 
 ![image](https://github.com/user-attachments/assets/df587abd-c001-46b2-83e6-4dc64f7a60b5)
 
 Here are some ideas to get you started:
