@@ -12,12 +12,17 @@ I can help you streamline operations, optimize strategies, accelerate goal achie
 I am a seasoned Data Scientist with close to 10 years of experience in managing and optimizing diverse datasets across academic, engineering, finance, and business domains 🎓🔬🛠️⚙️📈💰📊💻📝.
 
 ## Skills and Experience
-#### Languages
-<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+#### Programming & Scripting Languages
+<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://sql.ophir.dev/your-first-sql-website/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" width="40" height="40"/>
 
+ Python, SQL, Visual Basics for Applications (VBA), R, Matlab, Stata
 
- <h3 align="left">Data Visualization Plotting:</h3>
+ #### Data Plotting & Visualization
  <p align="left">  <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn" width="40" height="40"/> </a>
+
+
 
 
  
