@@ -11,8 +11,8 @@ I can help you streamline operations, optimize strategies, accelerate goal achie
 
 I am a seasoned Data Scientist with close to 10 years of experience in managing and optimizing diverse datasets across academic, engineering, finance, and business domains 🎓🔬🛠️⚙️📈💰📊💻📝.
 
-
-<h3 align="left">Languages:</h3>
+## Skills and Experience
+#### Languages
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
 
