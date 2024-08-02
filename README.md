@@ -15,7 +15,7 @@ As a seasoned Data Scientist with close to a decade of experience in managing an
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>
 <a href="https://sql.ophir.dev/your-first-sql-website/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" width="160" height="80"/>
 <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="vba" width="80" height="80"/> </a>
-<a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" alt="stata" width="80" height="80"/> </a>
+<a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" alt="stata" width="160" height="80"/> </a>
 <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="80" height="80"/> </a>
 
 Python, SQL, Visual Basics for Applications (VBA), Stata, R 
