@@ -58,8 +58,9 @@ Scipy, StatsModel
 ### Machine Learning Operations (MLOps)
 <p align="left">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="160" height="80"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/> </a> 
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="160" height="80"/> </a> 
 
-Docker, Kubernetes
+Docker, Kubernetes, Flask
 
 
 ### Cloud
