@@ -6,9 +6,9 @@ Worries not🙂. I can help✨.
 
 I will navigate you safely and peacefully through the rough sea of mixed and complex data to the right destination where you can see trends, capture anomalies, detect and prevent loss, and optimize benefits 🌊 🚢.
 
-I will help you streamline operations, optimize strategies, accelerate goal achievement, and enhance client satisfaction by uncovering actionable insights from your work, business, client, and contractor data 💼🏢💰🤝.
+I will help you streamline operations, optimize strategies, accelerate goal achievement, and enhance client satisfaction by uncovering actionable insights from your work, business, client, and contractor data 💼🏢💰.
 
-As a seasoned Data Scientist with close to a decade of experience in managing and optimizing diverse datasets across academic, engineering, finance, and business domains, I'll be your next friend for life 🎓🔬🛠️⚙️📈💰📊💻📝.
+As a seasoned Data Scientist with close to a decade of experience in managing and optimizing diverse datasets across academic, engineering, finance, and business domains, I'll be your next friend and colleague for life, so let's collaborate 🎓🔬🛠️⚙️📈💰📊💻📝🤝.
 
 # Skills and Experience
 ### Programming & Scripting Languages
