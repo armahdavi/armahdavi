@@ -47,7 +47,7 @@ Matplotlib, Seaborn, Plotly, Pandas, Bar Chart Race, Bokeh
 Natural Language Toolkit (nltk), SpaCy, TextBlob
 
 ### Statical Analysis
-<p align="left">   <a href=https://scipy.org/ target="_blank" rel="noreferrer"> <img src=https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svgalt=scipywidth="40" height="40"/></a>
+<p align="left">   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a>
 <a href=https://www.statsmodels.org/stable/index.html target="_blank" rel="noreferrer"> <img src=https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svgalt=statsmodelwidth="40" height="40"/> </a>
 
 Scipy, StatsModel
@@ -75,10 +75,7 @@ PySpark, Spark SQL
 
 
 
-
-
-
-
+<p align="left">  <a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://static.bokeh.org/branding/icons/bokeh-icon@5x.png" alt="bokeh" width="40" height="40"/></a><a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="nltk" width="40" height="40"/></a><a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="40" height="40"/></a><a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodel" width="40" height="40"/></a><a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" alt="vba" width="40" height="40"/></a><a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/R_(programming_language)#/media/File:R_logo.svg" alt="r" width="40" height="40"/></a><a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" alt="stata" width="40" height="40"/></a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/></a><a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="40" height="40"/></a><a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a>
 
 
 
