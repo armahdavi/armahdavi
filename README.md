@@ -17,7 +17,7 @@ I am a seasoned Data Scientist with close to 10 years of experience in managing 
 <a href="https://sql.ophir.dev/your-first-sql-website/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" width="40" height="40"/>
 <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="vba" width="40" height="40"/> </a>
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" alt="stata" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/R_(programming_language)#/media/File:R_logo.svg" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/R_(programming_language)/media/File:R_logo.svg" alt="R" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 
 Python, SQL, Visual Basics for Applications (VBA), Stata, R, Matlab, 
