@@ -50,7 +50,7 @@ Matplotlib, Seaborn, Plotly, Pandas, Bar Chart Race, Bokeh
 Natural Language Toolkit (nltk), SpaCy, TextBlob
 
 
-### Statical Analysis
+### Statistical Analysis
 <p align="left">   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="80" height="80"/> </a>
 <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodel" width="80" height="80"/> </a>
 
