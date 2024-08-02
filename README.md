@@ -1,15 +1,14 @@
 # Hello World! 👋🌐
  This is Alireza. I am a passionate Data Scientist and Machine Learning Engineer.
 
-Overwhelmed under a pile of data and information?!🤯 
-
+Overwhelmed under a pile of mixed and complex data and endless information generated from day to day?!🤯 
 Worries not🙂. I can help✨.
 
-I can navigate you safely and peacefully through the rough sea of data to the right destination 🌊 🚢.
+I will navigate you safely and peacefully through the rough sea of mixed and complex data to the right destination where you can see trends, capture anomalies, detect and prevent loss, and optimize benefits 🌊 🚢.
 
-I can help you streamline operations, optimize strategies, accelerate goal achievement, and enhance client satisfaction by uncovering actionable insights from your work, business, client, and contractor data 💼🏢💰🤝.
+I will help you streamline operations, optimize strategies, accelerate goal achievement, and enhance client satisfaction by uncovering actionable insights from your work, business, client, and contractor data 💼🏢💰🤝.
 
-I am a seasoned Data Scientist with close to 10 years of experience in managing and optimizing diverse datasets across academic, engineering, finance, and business domains 🎓🔬🛠️⚙️📈💰📊💻📝.
+As a seasoned Data Scientist with close to a decade of experience in managing and optimizing diverse datasets across academic, engineering, finance, and business domains, I'll be your next friend for life 🎓🔬🛠️⚙️📈💰📊💻📝.
 
 # Skills and Experience
 ### Programming & Scripting Languages
