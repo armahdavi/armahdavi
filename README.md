@@ -19,7 +19,7 @@ As a seasoned Data Scientist with close to a decade of experience in managing an
 <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="80" height="80"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="80" height="80"/> </a> 
 
-Python, SQL, Visual Basics for Applications (VBA), Stata, R, Matlab, 
+Python, SQL, Visual Basics for Applications (VBA), Stata, R, Matlab 
 
 
 ### Data Science, Machine Learning, & Deep Learning
