@@ -41,11 +41,11 @@ Pandas, Numpy, Scikit-Learn, XGboost, TensorFlow, OpenCV
 Matplotlib, Seaborn, Plotly, Pandas, Bar Chart Race, Bokeh
 
 
-### Natural Language Processing (NLP)
+### Text Mining & Natural Language Processing (NLP)
 <p align="left">   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="nltk" width="80" height="80"/>
 <a href=https://spacy.io/ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="80" height="80"/> </a>
 
-Natural Language Toolkit (nltk), SpaCy, TextBlob
+Regex, Natural Language Toolkit (nltk), SpaCy, TextBlob
 
 
 ### Statistical Analysis
