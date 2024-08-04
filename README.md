@@ -27,10 +27,9 @@ Python, SQL, Visual Basics for Applications (VBA), Stata, R
 <a href="https://docs.rapids.ai/api/cudf/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.rapids.ai/api/cudf/stable/_images/RAPIDS-logo-purple.png" alt="rapid_cudf" width="100" height="50"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>
-<a href="https://pola.rs/" target="_blank" rel="noreferrer"> <img src="https://x.com/DataPolars/photo" alt="polars" width="50" height="50"/> </a>  
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" alt="stata" width="100" height="50"/> </a>
 
- Pandas, Numpy, CuDF, Scikit-Learn, XGboost, TensorFlow, OpenCV
+ Pandas, Numpy, CuDF, Scikit-Learn, XGboost, TensorFlow, OpenCV, Polars
 
 
 ### Data Plotting & Visualization
@@ -76,7 +75,7 @@ GCP, AWS, DataBricks
 ### Big Data
 <p align="left">   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="100" height="40"/> </a>
 
-PySpark, Spark SQL
+PySpark, Spark SQL, Polars, CuDF
 
 
 ### RDBMS
