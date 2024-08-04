@@ -33,18 +33,18 @@ Pandas, Numpy, CuDF, Scikit-Learn, XGboost, TensorFlow, OpenCV
 
 
 ### Data Plotting & Visualization
-<p align="left">  <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="80" height="80"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/> </a> 
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly_logo_for_digital_final_%286%29.png" alt="seaborn" width="160" height="80"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/> </a>
-<a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://static.bokeh.org/branding/icons/bokeh-icon@5x.png" alt="bokeh" width="80" height="80"/>
+<p align="left">  <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> 
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly_logo_for_digital_final_%286%29.png" alt="seaborn" width="100" height="50"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
+<a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://static.bokeh.org/branding/icons/bokeh-icon@5x.png" alt="bokeh" width="50" height="50"/>
 
 Matplotlib, Seaborn, Plotly, Pandas, Bar Chart Race, Bokeh
 
 
 ### Text Mining & Natural Language Processing (NLP)
-<p align="left">   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="nltk" width="80" height="80"/>
-<a href=https://spacy.io/ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="80" height="80"/> </a>
+<p align="left">   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="nltk" width="40" height="40"/>
+<a href=https://spacy.io/ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="40" height="40"/> </a>
 
 Regex, Natural Language Toolkit (nltk), SpaCy, TextBlob
 
