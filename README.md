@@ -1,5 +1,5 @@
 # Hello World! 👋🌐
- This is Alireza. I am a passionate Data Scientist and Machine Learning Engineer.
+ This is Alireza. I am passionate about Data Science, Machine Learning, Deep Learning, and Large Language Model (LLM) Prompt Engineering.
 
 Overwhelmed under a pile of mixed and complex data and endless information generated from day to day?!🤯 
 Worries not🙂. I can help✨.
@@ -9,6 +9,17 @@ I will navigate you safely and peacefully through the rough sea of mixed and com
 I will help you streamline operations, optimize strategies, accelerate goal achievement, and enhance client satisfaction by uncovering actionable insights from your work, business, client, and contractor data 💼🏢💰.
 
 As a seasoned Data Scientist with close to a decade of experience in managing and optimizing diverse datasets across academic, engineering, finance, and business domains, I'll be your next friend and colleague for life, so let's collaborate 🎓🔬🛠️⚙️📈💰📊💻📝🤝.
+
+
+- 🔭 I’m currently working on **LLM Prompt Engineering to train and tune LLM (with Scale AI)🤖👾**
+- 🌱 I’m currently learning **the architecture of an LLM leading to text generation (with DeepLearning.AI)📐👷‍♂️**
+- 👯 I’m looking to collaborate on **work automation, budget estimation, Stock Market prediction, and business intelligence📈🗓️💰⚙️**
+- 🤔 I’m looking for help with **upgrading GPU multi-core parallelization for cuDF and PySpark💦🌈**
+- 💬 Ask me about **any data science, ML, DL, and Python relevant topic💻**
+- 📫 How to reach me: **ar.mahdavi21@gmail.com, alireza.mahdavi@mail.utoronto.ca📧**
+- 😄 Pronouns: **He/Him 🤵‍♂️👨🙋‍♂️**
+- ⚡ Fun fact: **I hated programming until I started my Ph.D., 🙈😂**
+
 
 # Skills and Experience
 ### Programming & Scripting Languages
