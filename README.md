@@ -18,7 +18,7 @@ As a seasoned Data Scientist with close to a decade of experience in managing an
 - 💬 Ask me about **any data science, ML, DL, and Python relevant topic💻**
 - 📫 How to reach me: **ar.mahdavi21@gmail.com, alireza.mahdavi@mail.utoronto.ca📧**
 - 😄 Pronouns: **He/Him 🤵‍♂️👨🙋‍♂️**
-- ⚡ Fun fact: **I hated programming until I started my Ph.D., 🙈😂**
+- ⚡ Fun fact: **I hated and was very bad at programming until I started my Ph.D., 🙈😂**
 
 
 # Skills and Experience
