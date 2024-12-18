@@ -22,6 +22,7 @@ As a seasoned Data Scientist with close to a decade of experience in managing an
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi)
+![SQL](https://img.shields.io/badge/SQL-Used%20Extensively-green)
 
 
 # Skills and Experience
