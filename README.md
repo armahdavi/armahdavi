@@ -21,6 +21,9 @@ As a seasoned Data Scientist with close to a decade of experience in managing an
 - ⚡ Fun fact: **I hated and was very bad at programming until I started my Ph.D., 🙈😂**
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi)
+
+
 # Skills and Experience
 ### Programming & Scripting Languages
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
