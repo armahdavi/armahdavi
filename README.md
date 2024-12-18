@@ -21,7 +21,6 @@ As a seasoned Data Scientist with close to a decade of experience in managing an
 - ⚡ Fun fact: **I hated and was very bad at programming until I started my Ph.D., 🙈😂**
 
 
-*.sql linguist-language=TSQL
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi)
 ![SQL](https://img.shields.io/badge/SQL-Used%20Extensively-green)
 
