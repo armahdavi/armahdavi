@@ -6,13 +6,13 @@
 💰📈My mission is to empower my team(s) to tackle complex challenges through advanced analytics and automation . I transform raw data into actionable insights and products, leveraging AI/ML algorithms, statistical models, and data visualizations to reduce costs, boost productivity, and increase profitability.
 
 ### Professional Activities
-🤖⚠️At [EXP](https://www.exp.com/insights/a-deep-dive-into-exps-partnership-with-bentley/), I lead AI-driven R&D to advance construction automation and energy management. I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with the National Research Council (NRC) of Canada, I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. 
+🤖⚠️At [EXP](https://www.exp.com/insights/a-deep-dive-into-exps-partnership-with-bentley/), I lead AI-driven R&D to advance construction automation and energy management. I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with Canada's [National Research Council (NRC)](https://nrc.canada.ca/en/research-development/products-services/technical-advisory-services/artificial-intelligence), I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. 
 
 📊💰With other code developments, I also assist upper management in automating client invoicing, project management, identifying budget surpluses/deficits, tracking employee utilization, and forecasting profitability.
 
-🧠💡At Scale AI, I evaluate LLM performance for coding-intensive roles, contributing to projects like Beagle Coding, Coders Full Stack, and Observation Concrete. I contribute to reinforcement learning with human feedback (RLHF), fine-tuning LLM responses, ensuring adherence to accuracy, conciseness, and security standards, and verifying APIs to prevent hallucinations.
+🧠💡At [Scale AI](https://scale.com/leaderboard/coding), I evaluate LLM performance for coding-intensive roles, contributing to projects like Beagle Coding, Coders Full Stack, and Observation Concrete. I contribute to reinforcement learning with human feedback (RLHF), fine-tuning LLM responses, ensuring adherence to accuracy, conciseness, and security standards, and verifying APIs to prevent hallucinations.
 
-👤🏷️At Telus Digitals, I provided high-quality labeled data for tasks like Named Entity Recognition (NER) and Region of Interest (ROI) annotation, supporting CV and LLM training. This work established Human-Level Performance (HLP) benchmarks for robust AI evaluation.
+👤🏷️At [Telus Digitals](https://www.telusdigital.com/solutions/ai-data-solutions?kw=telus%20international%20ai&cpn=20450091251&&&utm_campaign=23_q3_sep_aida_can_pros_en&utm_term=telus%20international%20ai&utm_medium=knc_tofu_awar_desk_mob_gbl&utm_source=t_gads&campaign=20450091251&adgroup=153180998398&adposition=&creative=669631218383&keyword=telus%20international%20ai&matchtype=p&network=g&device=c&gad_source=1&gclid=Cj0KCQiAqL28BhCrARIsACYJvkdtL0j-2z0JBjrsm3bTQfZhOlxvA7jsBN7YGsT0AfTRnLjCpYbRDs8aAtF4EALw_wcB&gclsrc=aw.ds) (formerly Telus International AI), I provided high-quality labeled data for tasks like Named Entity Recognition (NER) and Region of Interest (ROI) annotation, supporting CV and LLM training. This work established Human-Level Performance (HLP) benchmarks for robust AI evaluation.
 
 🏠💨At UofT, I improved indoor air quality (IAQ) and sustainability by using ML to predict HVAC operations based on temperature and humidity changes. I introduced Rapid Quantitative Filter Forensics (RQFF) to expedite airborne contaminant analysis, enabling efficient post-field HVAC filter forensics and laboratory coordination🔍.
 
@@ -24,7 +24,7 @@
 - 🤔 I’m looking for help with **upgrading GPU multi-core parallelization for cuDF and PySpark💦🌈**
 - 💬 Ask me about **any data science, ML, DL, and Python relevant topic💻**
 - 📫 How to reach me: **alireza.mahdavi@alumni.utoronto.ca📧**
-- 😄 Pronouns: **He/Him 🤵‍♂️👨🙋‍♂️**
+- 😄 Pronouns: **He/Him 🤵‍♂️👨**
 - ⚡ Fun fact: **I hated and was very bad at programming until I started my Ph.D., 🙈😂**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi/repository?style=flat&color=dark)
