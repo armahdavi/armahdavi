@@ -1,46 +1,46 @@
 ## Hello Wolrd!🌍 I am Alireza 🙋‍♂️
 
 ### About
-I am passionate about Data Science (DS), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), and Large Language Models (LLMs). 
+🔥🚀I am passionate about Data Science (DS), Machine Learning (ML), Neural Networks (NNs), Natural Language Processing (NLP), Computer Vision (CV), and Large Language Models (LLMs). 
 
-My mission is to empower my team(s) to tackle complex challenges through advanced analytics and automation. I transform raw data into actionable insights and products, leveraging AI/ML algorithms, statistical models, and data visualizations to reduce costs, boost productivity, and increase profitability.
+💰📈My mission is to empower my team(s) to tackle complex challenges through advanced analytics and automation . I transform raw data into actionable insights and products, leveraging AI/ML algorithms, statistical models, and data visualizations to reduce costs, boost productivity, and increase profitability.
 
 ### Professional Activities
-At [EXP]([URL](https://www.exp.com/insights/a-deep-dive-into-exps-partnership-with-bentley/), I lead AI-driven R&D to advance construction automation and energy management. I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with the National Research Council (NRC) of Canada, I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. 
+🤖⚠️At [EXP]([URL](https://www.exp.com/insights/a-deep-dive-into-exps-partnership-with-bentley/), I lead AI-driven R&D to advance construction automation and energy management. I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with the National Research Council (NRC) of Canada, I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. 
 
-With other code developments, I also assist upper management in automating client invoicing, project management, identifying budget surpluses/deficits, tracking employee utilization, and forecasting profitability.
+📊💰With other code developments, I also assist upper management in automating client invoicing, project management, identifying budget surpluses/deficits, tracking employee utilization, and forecasting profitability.
 
-At Scale AI, I evaluate LLM performance for coding-intensive roles, contributing to projects like Beagle Coding, Coders Full Stack, and Observation Concrete. I contribute to reinforcement learning with human feedback (RLHF), fine-tuning LLM responses, ensuring adherence to accuracy, conciseness, and security standards, and verifying APIs to prevent hallucinations.
+🧠💡At Scale AI, I evaluate LLM performance for coding-intensive roles, contributing to projects like Beagle Coding, Coders Full Stack, and Observation Concrete. I contribute to reinforcement learning with human feedback (RLHF), fine-tuning LLM responses, ensuring adherence to accuracy, conciseness, and security standards, and verifying APIs to prevent hallucinations.
 
-At Telus Digitals, I provided high-quality labeled data for tasks like Named Entity Recognition (NER) and Region of Interest (ROI) annotation, supporting CV and LLM training. This work established Human-Level Performance (HLP) benchmarks for robust AI evaluation.
+👤🏷️At Telus Digitals, I provided high-quality labeled data for tasks like Named Entity Recognition (NER) and Region of Interest (ROI) annotation, supporting CV and LLM training. This work established Human-Level Performance (HLP) benchmarks for robust AI evaluation.
 
-At UofT, I improved indoor air quality (IAQ) and sustainability by using ML to predict HVAC operations based on temperature and humidity changes. I introduced Rapid Quantitative Filter Forensics (RQFF) to expedite airborne contaminant analysis, enabling efficient post-field HVAC filter forensics and laboratory coordination.
+🏠💨At UofT, I improved indoor air quality (IAQ) and sustainability by using ML to predict HVAC operations based on temperature and humidity changes. I introduced Rapid Quantitative Filter Forensics (RQFF) to expedite airborne contaminant analysis, enabling efficient post-field HVAC filter forensics and laboratory coordination🔍.
 
-My experience extends to finance, retail, healthcare, and beyond, where I’ve worked on projects like fraud detection, sales optimization, customer churn prediction, cancer detection, sentiment analysis, machine translation, self-driving cars, and sports analytics. I also specialize in MLOps, Big Data, and recommender systems, delivering tailored solutions across sectors.
+💵🩺 My experience extends to finance, retail, healthcare, and beyond, where I’ve worked on projects like fraud detection, sales optimization, customer churn prediction, cancer detection, sentiment analysis, machine translation, self-driving cars, and sports analytics. I also specialize in MLOps, Big Data, and recommender systems, delivering tailored solutions across sectors.
 
-- 🔭 I’m currently working on **LLM Prompt Engineering to train and tune LLM (with Scale AI)🤖👾**
-- 🌱 I’m currently learning **the architecture of an LLM leading to text generation (with DeepLearning.AI)📐👷‍♂️**
+- 🔭 I’m currently working on **CV modeling of failure detection using TensorFlow ⚠️👾**
+- 🌱 I’m currently learning **robotics, and the architecture of an LLM leading to text generation 🤖**
 - 👯 I’m looking to collaborate on **work automation, budget estimation, Stock Market prediction, and business intelligence📈🗓️💰⚙️**
 - 🤔 I’m looking for help with **upgrading GPU multi-core parallelization for cuDF and PySpark💦🌈**
 - 💬 Ask me about **any data science, ML, DL, and Python relevant topic💻**
-- 📫 How to reach me: **ar.mahdavi21@gmail.com, alireza.mahdavi@mail.utoronto.ca📧**
+- 📫 How to reach me: **alireza.mahdavi@alumni.utoronto.ca📧**
 - 😄 Pronouns: **He/Him 🤵‍♂️👨🙋‍♂️**
 - ⚡ Fun fact: **I hated and was very bad at programming until I started my Ph.D., 🙈😂**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi/repository?style=flat&color=dark)
 
-# Skills and Experience
-### Programming & Scripting Languages
-<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://sql.ophir.dev/your-first-sql-website/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" width="100" height="50"/>
-<a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="vba" width="50" height="50"/> </a>
-<a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" alt="stata" width="100" height="50"/> </a>
-<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="50"/> </a>
+### Skills and Experience
+#### Programming
+<p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
+<a href="https://sql.ophir.dev/your-first-sql-website/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" width="40" height="20"/>
+<a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="vba" width="20" height="20"/> </a>
+<a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" alt="stata" width="40" height="20"/> </a>
+<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="20" height="20"/> </a>
 
 Python, SQL, Visual Basics for Applications (VBA), Stata, R 
 
 
-### Data Science, Machine Learning, & Deep Learning
+### DS, ML, & Deep Learning
 <p align="left">   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="100" height="50"/> </a>
 <a href="https://docs.rapids.ai/api/cudf/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.rapids.ai/api/cudf/stable/_images/RAPIDS-logo-purple.png" alt="rapid_cudf" width="100" height="50"/> </a>
@@ -50,8 +50,7 @@ Python, SQL, Visual Basics for Applications (VBA), Stata, R
 
  Pandas, Numpy, CuDF, Scikit-Learn, XGboost, TensorFlow, OpenCV, Polars
 
-
-### Data Plotting & Visualization
+### Plotting & Visualization
 <p align="left">  <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> 
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly_logo_for_digital_final_%286%29.png" alt="seaborn" width="100" height="50"/> </a>
@@ -61,34 +60,29 @@ Python, SQL, Visual Basics for Applications (VBA), Stata, R
 Matplotlib, Seaborn, Plotly, Pandas, Bar Chart Race, Bokeh
 
 
-### Text Mining & Natural Language Processing (NLP)
+### Text Mining & NLP
 <p align="left">   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="nltk" width="50" height="50"/>
 <a href=https://spacy.io/ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="50" height="50"/> </a>
 
 Regex, Natural Language Toolkit (nltk), SpaCy, TextBlob
 
 
-### Statistical Analysis
+### Statistics
 <p align="left">   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="50" height="50"/> </a>
 <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodel" width="50" height="50"/> </a>
 
 Scipy, StatsModel
 
 
-### Machine Learning Operations (MLOps)
+### MLOps & Cloud
 <p align="left">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="50"/> </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" width="100" height="50"/> </a> 
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="100" height="50"/> </a> 
-
-Docker, FastAPI, Flask
-
-
-### Cloud
 <p align="left">    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="100" height="50"/></a>
 
-GCP, AWS, DataBricks
+Docker, FastAPI, Flask, GCP, AWS, DataBricks
 
 
 ### Big Data
@@ -101,7 +95,6 @@ PySpark, Spark SQL, Polars, CuDF
 <p align="left">   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="50"/> </a> 
  
  MS SQL Server
-
 
 
 ### Climate Change and Envrironment
