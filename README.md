@@ -27,7 +27,7 @@
 - 😄 Pronouns: **He/Him 🤵‍♂️👨**
 - ⚡ Fun fact: **I hated and was very bad at programming until I started my Ph.D., 🙈😂**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi/repository?style=flat&color=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi&layout=compact&theme=dark)
 
 ### Skills and Experience
 #### Programming (Python, SQL, Visual Basics for Applications (VBA), C/C++) 
