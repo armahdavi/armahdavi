@@ -18,15 +18,6 @@
 
 💵🩺 My other activities extends to finance, retail, healthcare, and beyond, where I’ve worked on projects like fraud detection, sales optimization, customer churn prediction, breast cancer tumor detection, sentiment analysis, machine translation, self-driving cars, and sports analytics. I also specialize in MLOps, Big Data, and recommender systems, delivering tailored solutions across sectors.
 
-- 🔭 I’m currently working on **CV modeling of building envelope failure detection using TensorFlow ⚠️👾**
-- 🌱 I’m currently learning **robotics and text generation architecture in LLMs 🤖**
-- 👯 I’m looking to collaborate on **work automation, budget estimation, Stock Market prediction, and business intelligence📈🗓️💰⚙️**
-- 🤔 I’m looking for help with **upgrading GPU multi-core parallelization for cuDF and PySpark💦🌈**
-- 💬 Ask me about **any DS, ML/DL, NLP, or CV relevant topic💻**
-- 📫 How to reach me: **alireza.mahdavi@alumni.utoronto.ca📧**
-- 😄 Pronouns: **He/Him 🤵‍♂️👨**
-- ⚡ Fun fact: **I hated and was very bad at programming until I started my Ph.D., 🙈😂**
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi&layout=compact&theme=dark)
 
 ### Skills and Experience
