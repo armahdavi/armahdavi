@@ -44,4 +44,5 @@ MLOps & Cloud (Docker, FastAPI, Flask, GCP, AWS, DataBricks) <a href="https://ww
 Big Data (PySpark, Spark SQL, Polars, CuDF) <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="20"/></a>
 
 RDBMS (MS SQL Server) <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="20"/></a>
+
 Climate Change & Environment (MeteoStat, PyThermalComfort)
