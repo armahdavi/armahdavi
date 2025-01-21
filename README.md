@@ -1,17 +1,24 @@
-# Hello Wolrd! I am Alireza :)
+## Hello Wolrd! I am Alireza :)
 
 ## About
 I am passionate about Data Science (DS), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), and Large Language Models (LLMs). 
+
 My mission is to empower my teams to tackle complex challenges through advanced analytics and automation. I transform raw data into actionable insights and products, leveraging AI/ML algorithms, statistical models, and data visualizations to reduce costs, boost productivity, and increase profitability.
-Professional Activities
-At EXP, I lead AI-driven R&D to advance construction automation and energy management. I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with the National Research Council (NRC) of Canada, I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. With other code developments, I also assist upper management in automating client invoicing, project management, identifying budget surpluses/deficits, tracking employee utilization, and forecasting profitability.
+
+## Professional Activities
+At EXP, I lead AI-driven R&D to advance construction automation and energy management. 
+
+I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with the National Research Council (NRC) of Canada, I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. 
+
+With other code developments, I also assist upper management in automating client invoicing, project management, identifying budget surpluses/deficits, tracking employee utilization, and forecasting profitability.
+
 At Scale AI, I evaluate LLM performance for coding-intensive roles, contributing to projects like Beagle Coding, Coders Full Stack, and Observation Concrete. I contribute to reinforcement learning with human feedback (RLHF), fine-tuning LLM responses, ensuring adherence to accuracy, conciseness, and security standards, and verifying APIs to prevent hallucinations.
+
 At Telus Digitals, I provided high-quality labeled data for tasks like Named Entity Recognition (NER) and Region of Interest (ROI) annotation, supporting CV and LLM training. This work established Human-Level Performance (HLP) benchmarks for robust AI evaluation.
+
 At UofT, I improved indoor air quality (IAQ) and sustainability by using ML to predict HVAC operations based on temperature and humidity changes. I introduced Rapid Quantitative Filter Forensics (RQFF) to expedite airborne contaminant analysis, enabling efficient post-field HVAC filter forensics and laboratory coordination.
+
 My experience extends to finance, retail, healthcare, and beyond, where I’ve worked on projects like fraud detection, sales optimization, customer churn prediction, cancer detection, sentiment analysis, machine translation, self-driving cars, and sports analytics. I also specialize in MLOps, Big Data, and recommender systems, delivering tailored solutions across sectors.
-
-
-
 
 - 🔭 I’m currently working on **LLM Prompt Engineering to train and tune LLM (with Scale AI)🤖👾**
 - 🌱 I’m currently learning **the architecture of an LLM leading to text generation (with DeepLearning.AI)📐👷‍♂️**
