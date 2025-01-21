@@ -16,7 +16,7 @@
 
 🏠💨At [UofT](https://hab.civmin.utoronto.ca/research_area/applied-ai-and-ml-technologies-for-buildings/), I improved indoor air quality (IAQ) and sustainability by using ML to predict HVAC operations based on temperature and humidity changes. I introduced Rapid Quantitative Filter Forensics (RQFF) to expedite airborne contaminant analysis, enabling efficient post-field HVAC filter forensics and laboratory coordination🔍.
 
-💵🩺 My experience extends to finance, retail, healthcare, and beyond, where I’ve worked on projects like fraud detection, sales optimization, customer churn prediction, cancer detection, sentiment analysis, machine translation, self-driving cars, and sports analytics. I also specialize in MLOps, Big Data, and recommender systems, delivering tailored solutions across sectors.
+💵🩺 My other activities extends to finance, retail, healthcare, and beyond, where I’ve worked on projects like fraud detection, sales optimization, customer churn prediction, breast cancer tumor detection, sentiment analysis, machine translation, self-driving cars, and sports analytics. I also specialize in MLOps, Big Data, and recommender systems, delivering tailored solutions across sectors.
 
 - 🔭 I’m currently working on **CV modeling of failure detection using TensorFlow ⚠️👾**
 - 🌱 I’m currently learning **robotics, and the architecture of an LLM leading to text generation 🤖**
