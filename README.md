@@ -1,16 +1,24 @@
-# Hello World! 👋🌐
 ## About
+
 I am passionate about Data Science (DS), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), and Large Language Models (LLMs). Throughout my career, I have leveraged DS and ML tools to empower my teams in solving complex challenges in various domains including energy, environment, construction, digital transformation, finance, and retail.
 
 ## My Mission:
+
 I am committed to navigating my team safely and effectively through the vast and unpredictable sea of mixed and complex data. By developing automated programs, AI/ML algorithms, statistical models, and insightful data visualizations, I drive efficiency by reducing costs, boosting productivity, and increasing profitability. Like a captain steering a ship, it is my responsibility to protect the team from potential hazards—missing data, inconsistent labeling, incorrect problem framing, and unscalable code—ensuring we safely reach the dock of success. My goal is to transform raw information into added-value, sellable products, and to help my team gain more while doing/spending less.
 
 ## Activities 
-At EXP, I lead AI-driven and automative Research and Development (R&D) to promote construction automation, management, and finance. I employ Convolutional Neural Networks (CNNs) to detect construction failures (cracks, unsealed joints, heat loss anomalies) and automate window-to-wall ratio calculations to facilitate energy simulation in buildings. Collaborating with (NRC) Canada, I leverage statistical programming to promote stochastic moisture predictions for hygrothermal and mold risk assessments in buildings. I also analyze climate data to assess building envelope failure risks from climate anomalies.
+At EXP, I lead AI-driven and automative Research and Development (R&D) to promote construction automation, management, and finance. 
+
+I employ Convolutional Neural Networks (CNNs) to detect construction failures (cracks, unsealed joints, heat loss anomalies) and automate window-to-wall ratio calculations to facilitate energy simulation in buildings. Collaborating with (NRC) Canada, I leverage statistical programming to promote stochastic moisture predictions for hygrothermal and mold risk assessments in buildings. I also analyze climate data to assess building envelope failure risks from climate anomalies.
+
 Moreover, I leverage NLP to automate the creation of punch lists including non-compliance and deficiency logs from field observation reports (FORs) in New Construction and Building Envelope Commissioning (BECx), replacing the time-intensive manual process with ML-based text classification algorithms that significantly save time and budget. With other code developments, I also assist upper management in automating client invoicing, project management, identifying budget surpluses/deficits, tracking employee utilization, and forecasting profitability.
+
 At Scale AI I am part of a team of advanced coders evaluating LLMs in serving code-inclusive prompts by Data Scientists, ML Engineers, Software Engineers, and other code-intensive roles. I have been involved with various projects including Beagle Coding, Coders Full Stack, and Observation Concrete. in which we provide reinforcement learning human feedback (RLHF) that aids LLMs to finetune the responses. This process includes penalizing the LLM when it fails in one of the prompt adherence, accuracy, conciseness, and security dimensions. My other tasks have been verification of APIs when the LLMs attempt to reach external resources to avoid hallucinations.
+
 At Telus Digitals (formerly Telus Internation AI), I contributed to AI development by providing high-quality human-labeled data for tasks such as Named Entity Recognition (NER) and Region of Interest (ROI) annotation in text and image documents. This work supported the training of CV and LLM models and established Human-Level Performance (HLP) benchmarks for robust AI evaluation and development. 
+
 At UofT, I promoted indoor air quality (IAQ), energy, and sustainability. I utilized ML to predict the operation of heating, ventilation, and air-conditioning (HVAC) filters based on the change in the temperature and relative humidity (RH) over time enabling faster and more accurate estimation of heating and cooling energy consumption and carbon emissions in residential buildings. I introduced Rapid Quantitative Filter Forensics (RQFF) to analyze airborne contaminants by predicting dust recovery from HVAC filters, enabling lab assistants to expedite chemical and biological dust analysis efficiently.
+
 My other activities extend to other sectors, including finance, retail, medicine, and healthcare, encompassing ML operations (MLOps), Big Data, and collaborative and content-based recommender systems. I have accomplished tasks in finance (e.g., financial loan approval prediction, fraud detection, risk assessment), retail (e.g., sales optimization, customer churn prediction), medicine and healthcare (breast cancer detection), and other engineering and non-engineering jobs (sentiment analysis, Named Entity Recognition (NER), machine translation, self-driving car development, and sports analytics).
 
 
