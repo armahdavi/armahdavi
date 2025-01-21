@@ -1,14 +1,12 @@
-## Hello Wolrd!🌍 I am Alireza :)
+## Hello Wolrd!🌍 I am Alireza 🙋‍♂️
 
 ### About
 I am passionate about Data Science (DS), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), and Large Language Models (LLMs). 
 
-My mission is to empower my teams to tackle complex challenges through advanced analytics and automation. I transform raw data into actionable insights and products, leveraging AI/ML algorithms, statistical models, and data visualizations to reduce costs, boost productivity, and increase profitability.
+My mission is to empower my team(s) to tackle complex challenges through advanced analytics and automation. I transform raw data into actionable insights and products, leveraging AI/ML algorithms, statistical models, and data visualizations to reduce costs, boost productivity, and increase profitability.
 
 ### Professional Activities
-At EXP, I lead AI-driven R&D to advance construction automation and energy management. 
-
-I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with the National Research Council (NRC) of Canada, I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. 
+At [EXP]([URL](https://www.exp.com/insights/a-deep-dive-into-exps-partnership-with-bentley/), I lead AI-driven R&D to advance construction automation and energy management. I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with the National Research Council (NRC) of Canada, I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. 
 
 With other code developments, I also assist upper management in automating client invoicing, project management, identifying budget surpluses/deficits, tracking employee utilization, and forecasting profitability.
 
