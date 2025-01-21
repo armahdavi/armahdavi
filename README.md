@@ -6,7 +6,7 @@
 💰📈My mission is to empower my team(s) to tackle complex challenges through advanced analytics and automation . I transform raw data into actionable insights and products, leveraging AI/ML algorithms, statistical models, and data visualizations to reduce costs, boost productivity, and increase profitability.
 
 ### Professional Activities
-🤖⚠️At [EXP]([URL](https://www.exp.com/insights/a-deep-dive-into-exps-partnership-with-bentley/)), I lead AI-driven R&D to advance construction automation and energy management. I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with the National Research Council (NRC) of Canada, I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. 
+🤖⚠️At [EXP](https://www.exp.com/insights/a-deep-dive-into-exps-partnership-with-bentley/), I lead AI-driven R&D to advance construction automation and energy management. I employ Convolutional Neural Networks (CNNs) to detect construction failures, automate window-to-wall ratio calculations, and analyze climate data to conduct a climate risk assessment of building envelope failures. Collaborating with the National Research Council (NRC) of Canada, I employ statistical programming for stochastic moisture predictions to assess hygrothermal and mold risks in buildings. Using NLP and ML, I automate punch list creation for non-compliance and deficiency tracking in building commissioning, significantly reducing manual effort. 
 
 📊💰With other code developments, I also assist upper management in automating client invoicing, project management, identifying budget surpluses/deficits, tracking employee utilization, and forecasting profitability.
 
@@ -30,17 +30,15 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armahdavi/repository?style=flat&color=dark)
 
 ### Skills and Experience
-#### Programming
+#### Programming (Python, SQL, Visual Basics for Applications (VBA), C/C++) 
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 <a href="https://sql.ophir.dev/your-first-sql-website/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" width="40" height="20"/>
 <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="vba" width="20" height="20"/> </a>
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" alt="stata" width="40" height="20"/> </a>
 <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="20" height="20"/> </a>
 
-Python, SQL, Visual Basics for Applications (VBA), Stata, R 
 
-
-### DS, ML, & Deep Learning
+#### DS, ML, & Deep Learning (Pandas, Numpy, Scikit-Learn, TensorFlow, OpenCV, CuDF, XGboost, Polars)
 <p align="left">   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="100" height="50"/> </a>
 <a href="https://docs.rapids.ai/api/cudf/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.rapids.ai/api/cudf/stable/_images/RAPIDS-logo-purple.png" alt="rapid_cudf" width="100" height="50"/> </a>
@@ -48,33 +46,24 @@ Python, SQL, Visual Basics for Applications (VBA), Stata, R
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>
 
 
- Pandas, Numpy, CuDF, Scikit-Learn, XGboost, TensorFlow, OpenCV, Polars
-
-### Plotting & Visualization
+#### Plotting & Visualization (Matplotlib, Seaborn, Plotly, Pandas, Bar Chart Race)
 <p align="left">  <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> 
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly_logo_for_digital_final_%286%29.png" alt="seaborn" width="100" height="50"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
-<a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://static.bokeh.org/branding/icons/bokeh-icon@5x.png" alt="bokeh" width="50" height="50"/>
-
-Matplotlib, Seaborn, Plotly, Pandas, Bar Chart Race, Bokeh
 
 
-### Text Mining & NLP
+#### Text Mining & NLP (nltk, SpaCy, TextBlob)
 <p align="left">   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="nltk" width="50" height="50"/>
 <a href=https://spacy.io/ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="50" height="50"/> </a>
 
-Regex, Natural Language Toolkit (nltk), SpaCy, TextBlob
 
-
-### Statistics
+#### Statistics (Scipy, StatsModel)
 <p align="left">   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="50" height="50"/> </a>
 <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodel" width="50" height="50"/> </a>
 
-Scipy, StatsModel
 
-
-### MLOps & Cloud
+#### MLOps & Cloud (Docker, FastAPI, Flask, GCP, AWS, DataBricks)
 <p align="left">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="50"/> </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" width="100" height="50"/> </a> 
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="100" height="50"/> </a> 
@@ -82,21 +71,13 @@ Scipy, StatsModel
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="100" height="50"/></a>
 
-Docker, FastAPI, Flask, GCP, AWS, DataBricks
 
-
-### Big Data
+#### Big Data (PySpark, Spark SQL, Polars, CuDF)
 <p align="left">   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="100" height="40"/> </a>
 
-PySpark, Spark SQL, Polars, CuDF
 
-
-### RDBMS
+#### RDBMS (MS SQL Server)
 <p align="left">   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="50"/> </a> 
  
- MS SQL Server
-
-
-### Climate Change and Envrironment
-
-MeteoStat, PyThermalComfort
+ 
+#### Climate Change and Envrironment (MeteoStat, PyThermalComfort)
