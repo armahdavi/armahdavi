@@ -1,7 +1,7 @@
 ## Hello World!🌍 I am Alireza 🙋‍♂️
 
 ### About
-🔥🚀I am passionate about Data Science (DS), Machine Learning (ML), Artificial Neural Networks (ANNs), Natural Language Processing (NLP), Computer Vision (CV), and Large Language Models (LLMs). 
+🔥🚀I am passionate about Data Science (DS), Machine Learning (ML), Artificial Neural Networks (ANNs), Computer Vision (CV), Natural Language Processing (NLP), and Large Language Models (LLMs). 
 
 💰📈My mission is to empower my team(s) to tackle complex challenges through advanced analytics and automation. I transform raw data into actionable insights and products, leveraging AI/ML algorithms, statistical models, and data visualizations to reduce costs, promote sustainability, and optimize profitability.
 
