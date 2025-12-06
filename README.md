@@ -29,7 +29,7 @@ DS, ML, & Deep Learning (Pandas, Numpy, Scikit-Learn, TensorFlow, PyTorch, OpenC
 <a href="https://docs.rapids.ai/api/cudf/stable/" target="_blank" rel="noreferrer"><img src="https://docs.rapids.ai/api/cudf/stable/_images/RAPIDS-logo-purple.png" alt="cudf" width="40" height="20"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="20" height="20"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="20" height="20"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="[https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png](https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg)" alt="pytorch" width="20" height="20"/></a>
 
 Plotting & Visualization (Matplotlib, Seaborn, Plotly, Pandas, Bar Chart Race) <a href="https://www.matplotlib.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="20" height="20"/></a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="20" height="20"/></a><a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly_logo_for_digital_final_%286%29.png" alt="plotly" width="40" height="20"/></a>
 
@@ -37,7 +37,11 @@ Text Mining & NLP (nltk, SpaCy, TextBlob) <a href="https://www.nltk.org/" target
 
 Statistics (Scipy, StatsModels) <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="20" height="20"/></a><a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="20" height="20"/></a>
 
-MLOps & Cloud (Docker, FastAPI, Flask, GCP, AWS, DataBricks) <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="20"/></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" width="40" height="20"/></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="20"/></a>
+MLOps & Cloud (Docker, FastAPI, Flask, Azure, AWS, Databricks)
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="20"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" width="40" height="20"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="20"/></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="20"/></a>
 
 Big Data (PySpark, Spark SQL, Polars, CuDF) <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="20"/></a>
 
